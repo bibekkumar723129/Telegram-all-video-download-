@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+pytube
+yt_dlp
+requests
+pymongo

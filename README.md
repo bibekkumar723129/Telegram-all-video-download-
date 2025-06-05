@@ -1,3 +1,3 @@
-i am the boss 
+# Telegram Downloader Bot
 
-@darkworld008 
+Setup and usage guide.
